@@ -1,12 +1,10 @@
-title: Jessica Magno # your name (or website title) here
-logo: "/images/logojessicamagno.JPG?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+title: Jessica Magno 
+logo: "/images/logojessicamagno.JPG?raw=true" 
+description: >  
   <br>Bioinformata desde 2019, atualmente em transição para a Ciência de Dados. 
   Formada pela UFPR, tenho experiência em análise de dados biológicos, modelagem estatística e machine learning aplicado. 
-  Além da minha trajetória profissional, compartilho conteúdos sobre maternidade e tecnologia no Instagram @datascientistmom.
-<br>
-  Second description 
+  Além da minha trajetória profissional, compartilho conteúdos sobre maternidade e tecnologia no Instagram datascientistmom.
+<br> 
   <br>Esta página está em construção. Em breve, mais informações e projetos estarão disponíveis.<br>
   <a href="https://www.linkedin.com/in/magnojessica/">View My LinkedIn Profile</a> 
   <a href="https://instagram.com/datascientistmom/">View My Instagram Profile</a>
