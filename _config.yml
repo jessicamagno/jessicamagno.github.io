@@ -3,11 +3,12 @@ logo: "/images/logojessicamagno.JPG?raw=true"
 description: >  
   Bioinformata desde 2019, atualmente em transição para a Ciência de Dados.  
   Formada pela UFPR, tenho experiência em análise de dados biológicos, modelagem estatística e machine learning aplicado.  
-  Além da minha trajetória profissional, compartilho conteúdos sobre maternidade e tecnologia no Instagram [@datascientistmom](https://instagram.com/datascientistmom).  
+  Além da minha trajetória profissional, compartilho conteúdos sobre maternidade e tecnologia no Instagram @datascientistmom  
 
   Esta página está em construção. Em breve, mais informações e projetos estarão disponíveis.  
 
-  [View My LinkedIn Profile](https://www.linkedin.com/in/magnojessica/) | [View My Instagram Profile](https://instagram.com/datascientistmom/)  
+  <a href="https://www.linkedin.com/in/magnojessica/> View my LinkedIn profile </a>
+  <a href="https://instagram.com/datascientistmom/> View my Instagram profile </a>  
 
 remote_theme: "pages-themes/minimal@v0.2.0"  
 plugins:  
