@@ -1,16 +1,16 @@
 title: "Jessica Magno"  
 logo: "/images/logojessicamagno.JPG?raw=true"  
 description: >  
+  <br>
   Cientista de Dados e Bioinformata.  
-  Formada pela UFPR, tenho experiência em análise de dados biológicos, modelagem estatística e machine learning aplicado.  
-  Compartilho conteúdos sobre maternidade e tecnologia no Instagram @datascientistmom  
-
+  Formada pela UFPR, tenho experiência em análise de dados biológicos, modelagem estatística e machine learning aplicado.
+  <br><br>
   Esta página está em construção. Em breve, mais informações e projetos estarão disponíveis.  
-
+  <br><br>
   <a href="https://www.linkedin.com/in/magnojessica/> View my LinkedIn profile </a>
   
 remote_theme: "pages-themes/minimal@v0.2.0"  
 plugins:  
   - jekyll-remote-theme  
-
-google_analytics: "UA-000000-0" # Seu Google Analytics ID  
+colors:
+  crimson: '#900C3F'
