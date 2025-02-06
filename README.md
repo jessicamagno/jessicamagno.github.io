@@ -1,4 +1,4 @@
-## Portfólio de Ciência de Dados e Projetos de ML de Jessica Magno
+## Portfólio de Ciência de Dados, projetos de Bioinformática e Machine Learning de Jessica Magno
 
 Com base no tema Minimal Jekyll para GitHub Pages [1].
 
