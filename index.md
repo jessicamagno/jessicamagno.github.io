@@ -20,7 +20,7 @@
 
    Análise bioinformática de dados long non-coding RNAs (lncRNAs) de câncer de mama. Fui a responsável pela análise completa dos dados da coorte de câncer de mama (BRCA) provenientes do The Cancer Genome Atlas (TCGA), desde a obtenção dos dados, manipulação e pré-processamento, análise de expressão diferencial e confecção do heatmap (Figura 3 do artigo). Essa publicação foi parte de uma colaboração que fiz durante o doutorado, onde estive em contato direto com pesquisadores, geneticistas e professores. Além de fazer a análise bioinformática completa, contribui para a escrita da seção de metodologia e resultados do artigo, o qual foi publicado em 2023. 
 
-<img src="images/lncrna.png?raw=true" />
+<img src="images/lncrna2.png?raw=true" />
 
 [![](https://img.shields.io/badge/R-white?logo=R)](#)
 
